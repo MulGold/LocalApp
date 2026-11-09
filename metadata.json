@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Local Marketplace",
+  "description": "A comprehensive e-commerce and ordering system prototype for local businesses, featuring a product catalog, shopping cart, checkout flow, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
